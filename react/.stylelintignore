@@ -1,0 +1,16 @@
+dist/
+.local
+.output.js
+/node_modules/**
+
+**/*.svg
+**/*.sh
+
+/public/**
+
+**/*.js
+**/*.cjs
+**/*.mjs
+**/*.json
+**/*.d.ts
+**/*.ts
